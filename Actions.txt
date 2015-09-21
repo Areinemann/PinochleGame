@@ -10,6 +10,8 @@ Common actions that a player can do:
 -rotate screen 180 degrees to play (game will only be played on landscape layout)
 -minimize game screen
 -adjust screen settings on home screen
+-quit (with quit button)
+
 
 
 
