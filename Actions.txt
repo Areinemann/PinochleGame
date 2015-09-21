@@ -1,0 +1,16 @@
+Common actions that a player can do:
+
+-play a card by clicking on a card (card will have onClick method)
+-make a bid for the points they predict their hand would earn
+-declare a trump suit when they have the highest bid(game interface will prompt player)
+-draw a card from deck (random card will be chosen from array of unplayed cards)
+-make a meld with existing cards (game will pause until all the cards user wants for the 				meld are in play, so their turn is not interrupted)
+-see possible melds, by clicking on the hint button, labelled with ‘?’
+-play a trick in the second round 
+-rotate screen 180 degrees to play (game will only be played on landscape layout)
+-minimize game screen
+-adjust screen settings on home screen
+
+
+
+
